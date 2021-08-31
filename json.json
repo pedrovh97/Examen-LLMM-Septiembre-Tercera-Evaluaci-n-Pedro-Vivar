@@ -1,0 +1,30 @@
+{
+	"catálogo": [
+		{
+			"Camisetas": [
+				{
+					"Manga" : ["Manga corta","Manga larga","sin mangas"],
+					"marcas" : ["Mike","Addidas","Gordan"]
+				}
+			],
+			"Pantalones": [
+				{
+					"longitud" : ["Cortos","Largos"],
+					"marcas" : ["Puma","Mike","Addidas","Gordan"]
+				}
+			]
+		}
+	],
+	"tienda": [
+		{
+			"Nombre": "Sport shop",
+			"ubicacion": "Almendralejo",
+			"datos": [
+				{
+					"nombre" : "Jony Melavo",
+					"email" : "eseJony@gmail.com"
+				}
+			]
+		}
+	]
+}
