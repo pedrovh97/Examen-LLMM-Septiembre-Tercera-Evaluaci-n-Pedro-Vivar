@@ -17,7 +17,7 @@
 					"género" : ["Ficción","Drama"],
 					"descripción" : ["La trilogía cinematográfica de El Señor de los Anillos, basada en la novela homónima del escritor británico J. R. R.","Harry Potter es una serie de películas basada en las novelas homónimas de J. K. Rowling. La serie es distribuida por Warner Bros"],
 					"valoración" : ["Buena","excelente"],
-					"duración" : ["557 Minutos","478 Minutos"],
+					"capítulos" : ["557 Minutos","478 Minutos"],
 					"imagen" : ["./imagenes/Señor.png","./imagenes/Harry.png"]
 				}
 			]
