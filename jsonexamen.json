@@ -1,0 +1,38 @@
+{
+	 "catálogo" : [
+		{
+			"Series": [
+				{
+					"título" : "Los Simpson",
+					"género" : "Comedia ",
+					"descripción" : "La comedia de dibujos animados se centra en una familia que vive en la ciudad de Springfield. La cabeza de la familia Simpson es Homero, quien no es un hombre de familia típico",
+					"valoración" : "Muy buena",
+					"capítulos" : "33 temporadas",
+					"imagen" : "./imagenes/Simpson.png"
+				}
+			],
+			"Películas": [
+				{
+					"título" : ["El Señor de los Anillos","Harry Potter"],
+					"género" : ["Ficción","Drama"],
+					"descripción" : ["La trilogía cinematográfica de El Señor de los Anillos, basada en la novela homónima del escritor británico J. R. R.","Harry Potter es una serie de películas basada en las novelas homónimas de J. K. Rowling. La serie es distribuida por Warner Bros"],
+					"valoración" : ["Buena","excelente"],
+					"duración" : ["557 Minutos","478 Minutos"],
+					"imagen" : ["./imagenes/Señor.png","./imagenes/Harry.png"]
+				}
+			]
+		}
+ 	],
+	"información": [
+		{
+			"Nombre": "las Películas",
+			"datos": [
+				{
+					"nombre" : "Pedro Vivar",
+					"email" : "pedrovh97@gmail.com"
+				}
+			]
+		}
+	]
+
+}
